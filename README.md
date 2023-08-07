@@ -1,4 +1,4 @@
-# FIT3139_SEIR_model
+# SEIR_model_extension
 
 ## Model Selection:
 
